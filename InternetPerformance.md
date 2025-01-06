@@ -62,4 +62,3 @@ Protocols are like rules that devices follow to communicate. Newer ones are desi
 * [**What is Bandwidth?**](https://www.verizon.com/articles/internet-essentials/bandwidth-definition/#:~:text=The%20maximum%20amount%20of%20data,megabits%20per%20second%20\(Mbps\).) **:** Learn how bandwidth works and why it’s essential for managing data transfer and avoiding slow internet performance.  
 * [**How Internet Speeds Work (Video by Techquickie)**](https://www.youtube.com/watch?v=FTUViZy5UWs)**:** A quick video explaining how connection types impact speed and reliability.  
 * **Web Performance Optimization Guide (Google):** A detailed guide on how developers optimize websites to load faster by reducing file sizes and improving responsiveness.
-
